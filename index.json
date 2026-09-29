@@ -1,0 +1,389 @@
+{
+ "v": 1,
+ "artist": "test-pressing",
+ "weekly": "challenge-2",
+ "packs": [
+  {
+   "id": "test-pressing",
+   "title": "TEST PRESSING",
+   "by": "SMPLR TEST PACK",
+   "brief": "MADE IN CODE TO TEST DOWNLOADS. REAL ARTIST PACKS TAKE OVER FROM HERE.",
+   "date": "OCT 2026",
+   "sounds": [
+    {
+     "file": "kick-round.m4a",
+     "name": "ROUND",
+     "tag": "KICK"
+    },
+    {
+     "file": "snare-crack.m4a",
+     "name": "CRACK",
+     "tag": "SNARE"
+    },
+    {
+     "file": "hat-tight.m4a",
+     "name": "TIGHT",
+     "tag": "HAT"
+    },
+    {
+     "file": "clap-room.m4a",
+     "name": "ROOM CLAP",
+     "tag": "SNARE"
+    },
+    {
+     "file": "bass-low-a.m4a",
+     "name": "LOW A",
+     "tag": "BASS"
+    },
+    {
+     "file": "keys-min9.m4a",
+     "name": "MIN 9",
+     "tag": "KEYS"
+    },
+    {
+     "file": "perc-rim.m4a",
+     "name": "RIM",
+     "tag": "PERC"
+    },
+    {
+     "file": "hat-open.m4a",
+     "name": "OPEN",
+     "tag": "HAT"
+    },
+    {
+     "file": "hat-shaker.m4a",
+     "name": "SHAKER",
+     "tag": "HAT"
+    },
+    {
+     "file": "perc-tom.m4a",
+     "name": "TOM",
+     "tag": "PERC"
+    },
+    {
+     "file": "snare-soft.m4a",
+     "name": "SOFT",
+     "tag": "SNARE"
+    },
+    {
+     "file": "bass-sub-d.m4a",
+     "name": "SUB D",
+     "tag": "BASS"
+    },
+    {
+     "file": "keys-maj7.m4a",
+     "name": "MAJ 7",
+     "tag": "KEYS"
+    },
+    {
+     "file": "keys-pad.m4a",
+     "name": "PAD",
+     "tag": "KEYS"
+    },
+    {
+     "file": "keys-pluck.m4a",
+     "name": "PLUCK",
+     "tag": "KEYS"
+    },
+    {
+     "file": "fx-riser.m4a",
+     "name": "RISER",
+     "tag": "FX"
+    }
+   ]
+  },
+  {
+   "id": "challenge-2",
+   "title": "CHALLENGE 2: NO KICK",
+   "by": "WEEKLY CHALLENGE",
+   "brief": "ALL 16 COME FROM PAST PACKS. THE TWIST: NO KICK DRUM ALLOWED.",
+   "date": "WEEK 40",
+   "sounds": [
+    {
+     "pack": "dusty-loops",
+     "file": "loop-keys-80.m4a",
+     "name": "LATE KEYS",
+     "tag": "LOOP",
+     "bpm": 80,
+     "bars": 2
+    },
+    {
+     "pack": "test-pressing",
+     "file": "snare-crack.m4a",
+     "name": "CRACK",
+     "tag": "SNARE"
+    },
+    {
+     "pack": "tape-kit",
+     "file": "hat-dark.m4a",
+     "name": "DARK",
+     "tag": "HAT"
+    },
+    {
+     "pack": "test-pressing",
+     "file": "clap-room.m4a",
+     "name": "ROOM CLAP",
+     "tag": "SNARE"
+    },
+    {
+     "pack": "tape-kit",
+     "file": "bass-f.m4a",
+     "name": "F",
+     "tag": "BASS"
+    },
+    {
+     "pack": "test-pressing",
+     "file": "keys-min9.m4a",
+     "name": "MIN 9",
+     "tag": "KEYS"
+    },
+    {
+     "pack": "dusty-loops",
+     "file": "perc-blip.m4a",
+     "name": "BLIP",
+     "tag": "PERC"
+    },
+    {
+     "pack": "test-pressing",
+     "file": "hat-open.m4a",
+     "name": "OPEN",
+     "tag": "HAT"
+    },
+    {
+     "pack": "test-pressing",
+     "file": "hat-shaker.m4a",
+     "name": "SHAKER",
+     "tag": "HAT"
+    },
+    {
+     "pack": "tape-kit",
+     "file": "perc-wood.m4a",
+     "name": "WOOD",
+     "tag": "PERC"
+    },
+    {
+     "pack": "tape-kit",
+     "file": "snare-snap.m4a",
+     "name": "SNAP",
+     "tag": "SNARE"
+    },
+    {
+     "pack": "test-pressing",
+     "file": "bass-sub-d.m4a",
+     "name": "SUB D",
+     "tag": "BASS"
+    },
+    {
+     "pack": "dusty-loops",
+     "file": "vox-ah.m4a",
+     "name": "AH",
+     "tag": "VOX"
+    },
+    {
+     "pack": "dusty-loops",
+     "file": "vox-oh.m4a",
+     "name": "OH",
+     "tag": "VOX"
+    },
+    {
+     "pack": "tape-kit",
+     "file": "keys-bell.m4a",
+     "name": "BELL",
+     "tag": "KEYS"
+    },
+    {
+     "pack": "dusty-loops",
+     "file": "fx-vinyl.m4a",
+     "name": "VINYL",
+     "tag": "FX"
+    }
+   ]
+  },
+  {
+   "id": "dusty-loops",
+   "title": "DUSTY LOOPS",
+   "by": "SMPLR TEST PACK",
+   "brief": "FOUR LOOPS AT THEIR OWN TEMPO, PLUS ONE SHOTS AND VOICES TO PLAY OVER THEM.",
+   "date": "SEP 2026",
+   "sounds": [
+    {
+     "file": "loop-drums-86.m4a",
+     "name": "DUST DRUMS",
+     "tag": "LOOP",
+     "bpm": 86,
+     "bars": 2
+    },
+    {
+     "file": "loop-drums-92.m4a",
+     "name": "KNOCK",
+     "tag": "LOOP",
+     "bpm": 92,
+     "bars": 2
+    },
+    {
+     "file": "loop-keys-80.m4a",
+     "name": "LATE KEYS",
+     "tag": "LOOP",
+     "bpm": 80,
+     "bars": 2
+    },
+    {
+     "file": "loop-bass-86.m4a",
+     "name": "WALKER",
+     "tag": "LOOP",
+     "bpm": 86,
+     "bars": 2
+    },
+    {
+     "file": "kick-dust.m4a",
+     "name": "DUST",
+     "tag": "KICK"
+    },
+    {
+     "file": "snare-dust.m4a",
+     "name": "DUST",
+     "tag": "SNARE"
+    },
+    {
+     "file": "hat-dust.m4a",
+     "name": "DUST",
+     "tag": "HAT"
+    },
+    {
+     "file": "perc-blip.m4a",
+     "name": "BLIP",
+     "tag": "PERC"
+    },
+    {
+     "file": "bass-c.m4a",
+     "name": "BASS C",
+     "tag": "BASS"
+    },
+    {
+     "file": "keys-stab.m4a",
+     "name": "STAB",
+     "tag": "KEYS"
+    },
+    {
+     "file": "vox-ah.m4a",
+     "name": "AH",
+     "tag": "VOX"
+    },
+    {
+     "file": "vox-oh.m4a",
+     "name": "OH",
+     "tag": "VOX"
+    },
+    {
+     "file": "vox-eh.m4a",
+     "name": "EH",
+     "tag": "VOX"
+    },
+    {
+     "file": "fx-vinyl.m4a",
+     "name": "VINYL",
+     "tag": "FX"
+    },
+    {
+     "file": "perc-clap.m4a",
+     "name": "CLAP",
+     "tag": "PERC"
+    },
+    {
+     "file": "keys-low.m4a",
+     "name": "LOW KEYS",
+     "tag": "KEYS"
+    }
+   ]
+  },
+  {
+   "id": "tape-kit",
+   "title": "TAPE KIT",
+   "by": "SMPLR TEST PACK",
+   "brief": "A DARKER, SLOWER KIT. SITS WELL UNDER 80 BPM.",
+   "date": "AUG 2026",
+   "sounds": [
+    {
+     "file": "kick-deep.m4a",
+     "name": "DEEP",
+     "tag": "KICK"
+    },
+    {
+     "file": "snare-tape.m4a",
+     "name": "TAPE",
+     "tag": "SNARE"
+    },
+    {
+     "file": "hat-dark.m4a",
+     "name": "DARK",
+     "tag": "HAT"
+    },
+    {
+     "file": "snare-side.m4a",
+     "name": "SIDE",
+     "tag": "SNARE"
+    },
+    {
+     "file": "bass-f.m4a",
+     "name": "F",
+     "tag": "BASS"
+    },
+    {
+     "file": "keys-dusk.m4a",
+     "name": "DUSK",
+     "tag": "KEYS"
+    },
+    {
+     "file": "perc-wood.m4a",
+     "name": "WOOD",
+     "tag": "PERC"
+    },
+    {
+     "file": "hat-half.m4a",
+     "name": "HALF",
+     "tag": "HAT"
+    },
+    {
+     "file": "hat-tick.m4a",
+     "name": "TICK",
+     "tag": "HAT"
+    },
+    {
+     "file": "perc-low-tom.m4a",
+     "name": "LOW TOM",
+     "tag": "PERC"
+    },
+    {
+     "file": "snare-snap.m4a",
+     "name": "SNAP",
+     "tag": "SNARE"
+    },
+    {
+     "file": "bass-g.m4a",
+     "name": "G",
+     "tag": "BASS"
+    },
+    {
+     "file": "keys-hum.m4a",
+     "name": "HUM",
+     "tag": "KEYS"
+    },
+    {
+     "file": "keys-bell.m4a",
+     "name": "BELL",
+     "tag": "KEYS"
+    },
+    {
+     "file": "keys-sad.m4a",
+     "name": "SAD",
+     "tag": "KEYS"
+    },
+    {
+     "file": "fx-hiss.m4a",
+     "name": "HISS",
+     "tag": "FX"
+    }
+   ]
+  }
+ ]
+}
